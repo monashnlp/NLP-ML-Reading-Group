@@ -14,7 +14,8 @@
 ### 3. [Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)
 - Main Speaker: Haolan
 - Date: 2023 Feb 16
-- Short presentation by Linhao
+- Short presentation by Linhao about generating questions based on knowledge graphs
+    - Related paper: [DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner](https://xiaojingzi.github.io/publications/EMNLP22-Guo-et-al-DSM.pdf)
 
 
 ### 2. [Learning Disentangled Semantic Representations for Zero-Shot Cross-Lingual Transfer in Multilingual Machine Reading Comprehension](https://aclanthology.org/2022.acl-long.70/)

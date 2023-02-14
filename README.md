@@ -1,8 +1,8 @@
 # Monash NLP&ML Reading Group
 ---
 
-- Time: Thursday, 10:30-12:00pm
-- Location: TBA
+- Time: Thursday, 1:00PM-2:30PM
+- Location: Room 207 Woodside building
 - Schedule: [here](https://docs.google.com/document/d/13qkZBy1KBCeFa5s72fMCaCXpthnTWSg0ft4Y9fJuxzw/edit?usp=sharing)
 - Format: 
     - Main speaker -- Long presentation (~45 minutes) about research project, interesting paper, tutorial, in-depth discussion; 

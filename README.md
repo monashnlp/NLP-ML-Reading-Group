@@ -12,11 +12,13 @@
 
 ## 2023 Schedule
 
-### 4. [DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner](https://xiaojingzi.github.io/publications/EMNLP22-Guo-et-al-DSM.pdf)
+### 5. [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
+- Main Speaker: Farhad
+
+### 4. [DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner](https://aclanthology.org/2022.emnlp-main.281/)
 - Main Speaker: Linhao
 - Date: 2023 Feb 23
 - Short presentation by Farhad about multimodal few-shot learning
-    - Related paper: [[DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner](https://xiaojingzi.github.io/publications/EMNLP22-Guo-et-al-DSM.pdf)](https://arxiv.org/abs/2106.13884)
 
 ### 3. [Language Models with Image Descriptors are Strong Few-Shot Video-Language Learners](https://arxiv.org/abs/2205.10747)
 - Main Speaker: Haolan

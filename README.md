@@ -12,8 +12,14 @@
 
 ## 2023 Schedule
 
+### 6. Out-of-distribution problems and solutions for language models
+- Main Speaker: Lizhen
+- Date: 2023 Mar 09
+- Michelle will share her internship experience.
+
 ### 5. [Multimodal Few-Shot Learning with Frozen Language Models](https://arxiv.org/abs/2106.13884)
 - Main Speaker: Farhad
+- Date: 2023 Mar 02
 
 ### 4. [DSM: Question Generation over Knowledge Base via Modeling Diverse Subgraphs with Meta-learner](https://aclanthology.org/2022.emnlp-main.281/)
 - Main Speaker: Linhao

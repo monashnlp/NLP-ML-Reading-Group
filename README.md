@@ -11,9 +11,17 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 8. How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection
+- Main Speaker: Minghao
+- Date: 2023 Mar 23
+- Short presentation by Chuang
 
-### 6. Out-of-distribution problems and solutions for language models
-- Main Speaker: Lizhen
+### 7. Dataset creation for Simultaneous Machine Translation (cont)
+- Main Speaker: Michelle
+- Date: 2023 Mar 16
+- Minghao will present the paper [Language Modelling with Pixels](https://openreview.net/forum?id=FkSp8VW8RjH)
+
+### 6. Dataset creation for Simultaneous Machine Translation
 - Date: 2023 Mar 09
 - Michelle will share her internship experience.
 

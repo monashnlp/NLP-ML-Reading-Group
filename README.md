@@ -11,10 +11,14 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
-### 8. How Close is ChatGPT to Human Experts? Comparison Corpus, Evaluation, and Detection
+### 8. Tutorials on Instruction Tuning
 - Main Speaker: Minghao
 - Date: 2023 Mar 23
-- Short presentation by Chuang
+- Related papers:
+    - [Finetuned Language Models are Zero-Shot Learners](https://arxiv.org/abs/2109.01652)
+    - [Scaling Instruction-Finetuned Language Models](https://arxiv.org/abs/2210.11416)
+    - [Self-Instruct: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
+- Chuang will present the paper [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](https://arxiv.org/abs/2301.12597)
 
 ### 7. Dataset creation for Simultaneous Machine Translation (cont)
 - Main Speaker: Michelle

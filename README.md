@@ -6,11 +6,29 @@
 - Schedule: [here](https://docs.google.com/document/d/13qkZBy1KBCeFa5s72fMCaCXpthnTWSg0ft4Y9fJuxzw/edit?usp=sharing)
 - Format: 
     - Main speaker -- Long presentation (~45 minutes) about research project, interesting paper, tutorial, in-depth discussion; 
-    - Second speaker -- Short presentation on a topic of choice (30 minutes max).
+    - Second speaker -- Short presentation on a topic of choice (30 minutes max). Some suggestions:
+        - Overview of a list of related papers 
+        - A tutorial of a research topic (NLP, ML/AI tasks, models, problems, etc.)
+        - If the paper to be presented next week is fairly complicated, you can also provide the background of the problems/methods as preparation for next week.
     - Second speaker of the current week will be the main speaker of next week.
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 9. Multimodal Language Model
+- Main Speaker: Chuang
+- Date: 2023 Mar 30
+- Related papers:
+    - [Flamingo: a Visual Language Model for Few-Shot Learning](https://arxiv.org/abs/2204.14198)
+    - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671)
+- Reza will discuss a series of papers on large language models.
+    - [A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity](https://arxiv.org/abs/2302.04023)
+    - [PDDL PLANNING WITH PRETRAINED LARGE LANGUAGE MODELS](https://openreview.net/forum?id=1QMMUB4zfl)
+    - [SELF-INSTRUCT: Aligning Language Model with Self Generated Instructions](https://arxiv.org/abs/2212.10560)
+    - [AUTOMATIC CHAIN OF THOUGHT PROMPTING IN LARGE LANGUAGE MODELS](https://arxiv.org/abs/2210.03493)
+    - [LARGE LANGUAGE MODELS ARE NOT ZERO-SHOT COMMUNICATORS](https://arxiv.org/abs/2210.14986)
+    - [Hello Dolly: Democratizing the magic of ChatGPT with open models](https://www.databricks.com/blog/2023/03/24/hello-dolly-democratizing-magic-chatgpt-open-models.html)
+    - [Alpaca](https://crfm.stanford.edu/2023/03/13/alpaca.html)
+
 ### 8. Tutorials on Instruction Tuning
 - Main Speaker: Minghao
 - Date: 2023 Mar 23

@@ -14,6 +14,11 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 10. [Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366)
+- Main Speaker: Reza
+- Date: 2023 Apr 06
+- Tong will give a tutorial on continual learning.
+
 ### 9. Multimodal Language Model
 - Main Speaker: Chuang
 - Date: 2023 Mar 30

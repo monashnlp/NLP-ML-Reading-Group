@@ -14,9 +14,23 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
-### 10. [Reflexion: an autonomous agent with dynamic memory and self-reflection](https://arxiv.org/abs/2303.11366)
+### 11. Tutorial on Continual Learning in NLP
+- Main Speaker: Tong
+- Date: 2023 May 04
+- Trang will discuss a few papers on refining large language models
+    - [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)
+    - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
+    - [REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/abs/2304.01904)
+    - [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100)
+
+### 10. Planning with Large Language Models
 - Main Speaker: Reza
-- Date: 2023 Apr 06
+- Related papers:
+    - [Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language](https://arxiv.org/abs/2204.00598)
+    - [Do As I Can, Not As I Say: Grounding Language in Robotic Affordances](https://arxiv.org/abs/2204.01691)
+    - [Inner Monologue: Embodied Reasoning through Planning with Language Models](https://arxiv.org/abs/2207.05608)
+    - [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/abs/2304.03442)
+- Date: 2023 Apr 27
 - Tong will give a tutorial on continual learning.
 
 ### 9. Multimodal Language Model

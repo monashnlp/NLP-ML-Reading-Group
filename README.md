@@ -21,8 +21,7 @@
     - [Check Your Facts and Try Again: Improving Large Language Models with External Knowledge and Automated Feedback](https://arxiv.org/abs/2302.12813)
     - [Self-Refine: Iterative Refinement with Self-Feedback](https://arxiv.org/abs/2303.17651)
     - [REFINER: Reasoning Feedback on Intermediate Representations](https://arxiv.org/abs/2304.01904)
-    - [Errors are Useful Prompts: Instruction Guided Task Programming with Verifier-Assisted Iterative Prompting](https://arxiv.org/abs/2303.14100)
-
+    
 ### 10. Planning with Large Language Models
 - Main Speaker: Reza
 - Related papers:

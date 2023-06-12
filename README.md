@@ -14,6 +14,27 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 14. Complementary Explanations for Effective In-Context Learning
+- Main Speaker: Zhuang
+- Date: 2023 June 1
+- Devin presents talk with title "Language Models can teach themselves to perform better"
+    - [Language Models Can Teach Themselves to Program Better](https://arxiv.org/abs/2207.14502)
+    - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
+    - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/abs/2304.09797)
+
+### 13. Large Language Models
+- Main Speaker: Reza
+- Date: 2023 May 25
+- Related papers:
+    - [Improving Code Generation by Training with Natural Language Feedback](https://arxiv.org/abs/2303.16749)
+    - [PiVe: Prompting with Iterative Verification Improving Graph-based Generative Capability of LLMs](https://arxiv.org/abs/2305.12392)
+    - [Training Language Models with Language Feedback at Scale](https://arxiv.org/abs/2303.16755)
+    - [AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback](https://tatsu-lab.github.io/alpaca_farm_paper.pdf)
+
+### 12. Meta skills for doing research
+- Main Speaker: Prof. Waleed Abdulla from the University of Auckland
+- Date: 2023 May 18
+
 ### 11. Tutorial on Continual Learning in NLP
 - Main Speaker: Tong
 - Date: 2023 May 04

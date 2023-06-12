@@ -14,10 +14,17 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 15. Can multiple large language models (LLMs) improve each other via self-playing?
+- Main Speaker: Devin
+- Date: 2023 June 15
+- Second Speaker: Manh will discuss the following papers:
+    - [AudioGen: Textually Guided Audio Generation](https://arxiv.org/abs/2209.15352)
+    - [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503)
+
 ### 14. Complementary Explanations for Effective In-Context Learning
 - Main Speaker: Zhuang
 - Date: 2023 June 1
-- Devin presents talk with title "Language Models can teach themselves to perform better"
+- Devin presents talk with title "Language Models can teach themselves to perform better", discussing the following papers:
     - [Language Models Can Teach Themselves to Program Better](https://arxiv.org/abs/2207.14502)
     - [WizardLM: Empowering Large Language Models to Follow Complex Instructions](https://arxiv.org/abs/2304.12244)
     - [Progressive-Hint Prompting Improves Reasoning in Large Language Models](https://arxiv.org/abs/2304.09797)

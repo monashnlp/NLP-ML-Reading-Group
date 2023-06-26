@@ -14,10 +14,22 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 17. Large Language Model’s Theory of Mind
+- Main Speaker: Farhad
+- Date: 2023 June 29
+- Related papers:
+    - [Large Language Models Fail on Trivial Alterations to Theory-of-Mind Tasks](https://arxiv.org/abs/2302.08399)
+    - [Minding Language Models' (Lack of) Theory of Mind: A Plug-and-Play Multi-Character Belief Tracker](https://arxiv.org/abs/2306.00924)
+- Second speaker: Xiaoyu will discuss following papers:
+    - [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485)
+    - [Multimodal Chain-of-Thought Reasoning in Language Models](https://arxiv.org/abs/2302.00923)
+    
 ### 16. [AudioLDM: Text-to-Audio Generation with Latent Diffusion Models](https://arxiv.org/abs/2301.12503)
 - Main Speaker: Manh
 - Date: 2023 June 22
-- Second Speaker: Farhad will discuss papers about Large Language Model’s Theory of Mind
+- Second Speaker: Farhad will discuss papers about Large Language Model’s Theory of Mind, covering following paper:
+    - [Clever Hans or Neural Theory of Mind? Stress Testing Social Reasoning in Large Language Models](https://arxiv.org/abs/2305.14763)
+
 
 ### 15. Can multiple large language models (LLMs) improve each other via self-playing?
 - Main Speaker: Devin

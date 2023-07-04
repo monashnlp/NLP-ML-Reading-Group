@@ -14,6 +14,14 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 18. Multi-modal instruction tuning
+- Main Speaker: Xiaoyu
+- Date: 2023 July 04
+- Second speaker: Fatemeh with discuss following papers:
+    - [Recursion of Thought: A Divide-and-Conquer Approach to Multi-Context Reasoning with Language Models](https://arxiv.org/abs/2306.06891)
+    - [Decomposed Prompting: A Modular Approach for Solving Complex Tasks](https://arxiv.org/abs/2210.02406)
+    - [Tree of Thoughts: Deliberate Problem Solving with Large Language Models](https://arxiv.org/abs/2305.10601)
+
 ### 17. Large Language Model’s Theory of Mind
 - Main Speaker: Farhad
 - Date: 2023 June 29

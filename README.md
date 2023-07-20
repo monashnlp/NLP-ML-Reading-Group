@@ -14,6 +14,11 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 19. ACL Redux
+- Lizhen shares his findings at ACL2023
+- Date: 2023 July 20
+- Resources: [Slide](https://docs.google.com/presentation/d/1scIkI_aUwYQeoWy7Nt3JpYeQeQH9Yda3u_CxFt1FXh8/edit?usp=sharing)
+
 ### 18. Multi-modal instruction tuning
 - Main Speaker: Xiaoyu
 - Date: 2023 July 04

@@ -14,6 +14,20 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 22. [Cross-Modal Fine-Tuning: Align then Refine](https://arxiv.org/abs/2302.05738)
+- Main Speaker: Haolan
+- Date: 2023 August 10
+- Second speaker: Fatemeh will discuss the paper [Structured prompt interrogation and recursive extraction of semantics (SPIRES): A method for populating knowledge bases using zero-shot learning](https://arxiv.org/abs/2304.02711)
+
+### 21. Measuring Dataset Distance via Optimal Transport
+- Haolan
+- Date: 2023 August 03
+- Paper: [Geometric Dataset Distances via Optimal Transport](https://arxiv.org/abs/2002.02923)
+
+### 20. ACL Redux
+- Reza shares his findings at ACL2023
+- Date: 2023 July 27
+
 ### 19. ACL Redux
 - Lizhen shares his findings at ACL2023
 - Date: 2023 July 20

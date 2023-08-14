@@ -14,6 +14,11 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 23. [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)
+- Main Speaker: Linhao
+- Date: 2023 August 17
+- Second speaker: Hao will have a practice talk for his Interspeech paper [Investigating Pre-trained Audio Encoders in the Low-Resource Condition](https://arxiv.org/abs/2305.17733)
+
 ### 22. [Cross-Modal Fine-Tuning: Align then Refine](https://arxiv.org/abs/2302.05738)
 - Main Speaker: Haolan
 - Date: 2023 August 10

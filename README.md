@@ -17,6 +17,7 @@
 ### 23. [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)
 - Main Speaker: Linhao
 - Date: 2023 August 17
+- [Slides](https://drive.google.com/file/d/1aAAvG8NMHXmYTsskGitF7A2iv-xTrju3/view?usp=drive_link)
 - Second speaker: Hao will have a practice talk for his Interspeech paper [Investigating Pre-trained Audio Encoders in the Low-Resource Condition](https://arxiv.org/abs/2305.17733)
 
 ### 22. [Cross-Modal Fine-Tuning: Align then Refine](https://arxiv.org/abs/2302.05738)

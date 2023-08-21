@@ -14,6 +14,11 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 24. [Scaling Speech Technology to 1,000+ Languages](https://arxiv.org/abs/2305.13516)
+- Main Speaker: Michelle
+- Date: 2023 August 24
+- Second speaker: Chuang will discuss the paper [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824)
+
 ### 23. [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)
 - Main Speaker: Linhao
 - Date: 2023 August 17

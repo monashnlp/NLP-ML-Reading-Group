@@ -14,10 +14,20 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
-### 24. [Scaling Speech Technology to 1,000+ Languages](https://arxiv.org/abs/2305.13516)
-- Main Speaker: Michelle
+### 26. Word Associations as a source of Commonsense Knowledge
+- Main Speaker: Chunhua Liu (Melbourne Uni)
+- Date: 2023 September 7
+- Abstract: Commonsense knowledge is what helps us make sense of everyday situations and is important for AI systems to truly understand and interact with humans. However, acquiring this knowledge is challenging because it is implicit and diverse, leading to sparsity issues within existing commonsense resources. We explore a new approach: using large-scale word associations as a source of commonsense knowledge. Word associations are spontaneous connections that individuals make, such as associating "smile" with "happy", reflecting the human mental lexicon. We propose using large-scale word associations to complement existing knowledge resources and improve how natural language processing models reason with commonsense. In this talk, I will present three key research questions: (1) What relational knowledge is encoded in word associations? (2) Can large-scale word associations improve performance on downstream commonsense reasoning tasks? (3) Can word associations contribute to extracting implicit knowledge from pre-trained language models? By addressing these questions, we aim to deepen our understanding of word associations, highlight their practical utility, and offer a new way to extract commonsense knowledge from language models.
+- BIO: Chunhua a PhD student in natural language processing at The University of Melbourne under the supervision of Trevor Cohn and Lea Frermann. Her research interests center around understanding the structure and relationships between concepts through interdisciplinary perspectives, including natural language processing and cognitive psychology. With a specific emphasis on understanding the structure and reasons behind human word associations, evaluating the potential of word associations as a source of commonsense knowledge and incorporating commonsense knowledge to improve neural models' reasoning ability on tasks, such as commonsense question answering and natural language inferences. Additionally, She is interested in exploring concept representation and categorization across languages and cultures.
+- Second speaker: Linhao 
+
+### 25. Recent Advances in Object Detection in the Wild
+- Main Speaker: Chuang
+- Date: 2023 August 31
+
+### 24. [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824)
+- Main Speaker: Chuang
 - Date: 2023 August 24
-- Second speaker: Chuang will discuss the paper [KOSMOS-2: Grounding Multimodal Large Language Models to the World](https://arxiv.org/abs/2306.14824)
 
 ### 23. [Editing Large Language Models: Problems, Methods, and Opportunities](https://arxiv.org/abs/2305.13172)
 - Main Speaker: Linhao

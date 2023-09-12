@@ -14,6 +14,20 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 27. Long Context Language Models
+- Main Speaker: Tao
+- Date: 2023 September 14
+- Related papers: 
+    - [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs/2307.03172)
+    - [L-Eval: Instituting Standardized Evaluation for Long Context Language Models](https://arxiv.org/abs/2307.11088)
+    - [LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)
+- Second Speaker: Reza will talk about 'Recent Advances in Quantisation for Compressing LLMs', covering following papers:
+    - [8-bit Optimizers via Block-wise Quantization](https://arxiv.org/abs/2110.02861)
+    - [LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)
+    - [The case for 4-bit precision: k-bit Inference Scaling Laws](https://arxiv.org/abs/2212.09720)
+    - [QLoRA: Efficient Finetuning of Quantized LLMs](https://arxiv.org/abs/2305.14314)
+    - [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers](https://arxiv.org/abs/2210.17323)
+
 ### 26. Word Associations as a source of Commonsense Knowledge
 - Main Speaker: Chunhua Liu (Melbourne Uni)
 - Date: 2023 September 7

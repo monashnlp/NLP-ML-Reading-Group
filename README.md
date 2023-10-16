@@ -14,6 +14,15 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 29. Think One More Step Beyond Knowledge Editing
+- Main Speaker: Tong
+- Date: 2023 October  19
+- Second Speaker: Xiaoyu presents the paper [Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models](https://arxiv.org/abs/2308.16463)
+
+### 28. Quantisation for compressing LLMs
+- Main Speaker: Reza
+- Date: 2023 October 05
+- Second Speaker: Tong presents the paper [The Reversal Curse: LLMs trained on “A is B” fail to learn “B is A”](https://owainevans.github.io/reversal_curse.pdf)
 ### 27. Long Context Language Models
 - Main Speaker: Tao
 - Date: 2023 September 14

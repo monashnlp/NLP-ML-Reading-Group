@@ -14,9 +14,17 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 30. [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)
+- Main Speaker: Xiaoyu
+- Date: 2023 October 26
+- Second Speaker: Trang presents a short tutorial on human alignment of LLMs.
+
 ### 29. Think One More Step Beyond Knowledge Editing
 - Main Speaker: Tong
-- Date: 2023 October  19
+- Date: 2023 October 19
+- Related papers:
+    - [Unveiling the Pitfalls of Knowledge Editing for Large Language Models](https://arxiv.org/abs/2310.02129)
+    - [Evaluating the Ripple Effects of Knowledge Editing in Language Models](https://arxiv.org/abs/2307.12976)
 - Second Speaker: Xiaoyu presents the paper [Sparkles: Unlocking Chats Across Multiple Images for Multimodal Instruction-Following Models](https://arxiv.org/abs/2308.16463)
 
 ### 28. Quantisation for compressing LLMs

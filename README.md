@@ -14,6 +14,11 @@
 - [Past meeting repo](https://github.com/Monash-NLP-ML-Group/lab_reading_group)
 
 ## 2023 Schedule
+### 31. Human Alignment of LLMs
+- Main Speaker: Trang
+- Date: 2023 October 31
+- Second Speaker: Zhuang presents the paper [Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386/)
+
 ### 30. [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)
 - Main Speaker: Xiaoyu
 - Date: 2023 October 26

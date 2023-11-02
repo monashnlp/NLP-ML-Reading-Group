@@ -23,7 +23,7 @@
 ### 30. [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)
 - Main Speaker: Xiaoyu
 - Date: 2023 October 26
-- Second Speaker: Trang presents a short tutorial on human alignment of LLMs.
+- Second Speaker: Trang presents a short tutorial on [human alignment of LLMs](https://icml.cc/media/icml-2023/Slides/21554.pdf).
 
 ### 29. Think One More Step Beyond Knowledge Editing
 - Main Speaker: Tong

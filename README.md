@@ -17,6 +17,7 @@
 ### 31. Human Alignment of LLMs
 - Main Speaker: Trang
 - Date: 2023 October 31
+- [Slides](https://docs.google.com/presentation/d/1aQxsj_vZt97dfwcC8By6BfYwx7vj7GH3y843tpPB50A/edit?usp=sharing)
 - Second Speaker: Zhuang presents the paper [Fact-Checking Complex Claims with Program-Guided Reasoning](https://aclanthology.org/2023.acl-long.386/)
 
 ### 30. [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/abs/2309.05519)

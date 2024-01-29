@@ -11,6 +11,17 @@
 
 ## 2024 Schedule
 
+### 4. Bridging the Modality Gap between Speech and Text
+- Date: 2024 Feb 01
+- First speaker: Michelle presents her work about "Bridging the Modality Gap between Speech and Text".
+- Second speaker: Fatemeh will present few works about multi-modal LLMs, including
+    - [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209)
+    - [How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/abs/2311.16101)
+### 3. Modelling Coalition Negotiations Using Artificial Agents
+- Date: 2024 Jan 25
+- First speaker: Farhad will present his work on "Modelling Coalition Negotiations Using Artificial Agents"
+- Second speaker: Michelle will share her internship experience at FAIR
+
 ### 2. Simultaneous Machine Translation with Large Language Models
 - Date: 2024 Jan 18
 - First speaker: Minghan presents his work about "Simultaneous Machine Translation with Large Language Models".

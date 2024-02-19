@@ -11,6 +11,20 @@
 
 ## 2024 Schedule
 
+### 6. Towards Socially-aware Dialogue Systems
+- Date: 2024 Feb 22
+- First speaker: Haolan presents his work about "Towards Socially-aware Dialogue Systems".
+- Second speaker: Hao will discuss the following papers
+    - [GOAT-Bench: Safety Insights to Large Multimodal Models through Meme-Based Social Abuse](https://arxiv.org/abs/2401.01523)
+    - [Towards Explainable Harmful Meme Detection through Multimodal Debate between Large Language Models](https://arxiv.org/abs/2401.13298)
+
+### 5. Research at MonashNLP
+- Date: 2024 Feb 08
+- First speaker: Reza will present an overview on different directions and projects that our groups are currently working on.
+- Second speaker: Haolan will discuss the following papers
+    - [Aligning Large Language Models through Synthetic Feedback](https://aclanthology.org/2023.emnlp-main.844)
+    - [Tool-Augmented Reward Modeling](https://arxiv.org/abs/2310.01045)
+
 ### 4. Bridging the Modality Gap between Speech and Text
 - Date: 2024 Feb 01
 - First speaker: Michelle presents her work about "Bridging the Modality Gap between Speech and Text".

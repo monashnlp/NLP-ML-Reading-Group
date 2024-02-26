@@ -10,6 +10,12 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 7. Audio Safety on Multimodal LLMs
+- Date: 2024 Feb 29
+- First Speaker: Hao presents his work about "Audio Safety on Multimodal LLMs".
+- Second speaker: Tao will discuss the following papers
+    - [Causal Reasoning and Large Language Models: Opening a New Frontier for Causality](https://arxiv.org/abs/2305.00050)
+    - [Causal Parrots: Large Language Models May Talk Causality But Are Not Causal](https://openreview.net/forum?id=tv46tCzs83)
 
 ### 6. Towards Socially-aware Dialogue Systems
 - Date: 2024 Feb 22

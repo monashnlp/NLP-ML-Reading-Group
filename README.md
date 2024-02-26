@@ -4,7 +4,7 @@
 - Time: Thursday, 1:00PM-2:30PM
 - Location: Room 280 Woodside building
 - Schedule: [here](https://docs.google.com/document/d/13qkZBy1KBCeFa5s72fMCaCXpthnTWSg0ft4Y9fJuxzw/edit?usp=sharing)
-- Format: 
+- Format: [Presentation guidelines](presenter-guideline.md)
     - First speaker (~45 minutes) -- The presenter talks about her/his current work/projects (the goal is to increase awareness about your work and get feedback from the team).
     - Second speaker (~45 minutes) -- The presentation about a set of papers, or a tutorial about a topic of the presenter's choice.
 - [Past meeting repo](past-meetings)

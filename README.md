@@ -11,6 +11,11 @@
 
 ## 2024 Schedule
 ### 7. Audio Safety on Multimodal LLMs
+- Date: 2024 Mar 7
+- First Speaker: Tao presents his work about "CausalScore: An Automatic Reference-Free Metric Leveraging Causal Strength for Assessing Quality of Open-Domain Dialogue Systems".
+- Second speaker: Linhao will discuss some papers related to "Complex Knowledge Graphs Reasoning with LLMs"
+
+### 7. Audio Safety on Multimodal LLMs
 - Date: 2024 Feb 29
 - First Speaker: Hao presents his work about "Audio Safety on Multimodal LLMs".
 - Second speaker: Tao will discuss the following papers

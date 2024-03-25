@@ -10,6 +10,11 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 10. A Brief Tutorial on Recent Advancements of RLHF and Its Alternatives
+- Date: 2024 Mar 28
+- First Speaker: Minghao presents a tutorial about "Recent Advancements of RLHF and Its Alternatives".
+- Second speaker: Manh will have a practice talk with title "Robust multimodal learning and generation"
+
 ### 9. Complex Knowledge Graphs Reasoning with LLMs
 - Date: 2024 Mar 21
 - First Speaker: Linhao presents his work about "Complex Knowledge Graphs Reasoning with LLMs".

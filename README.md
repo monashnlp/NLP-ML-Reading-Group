@@ -10,10 +10,20 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
-### 10. A Brief Tutorial on Recent Advancements of RLHF and Its Alternatives
-- Date: 2024 Mar 28
+### 12. A Brief Tutorial on Recent Advancements of RLHF and Its Alternatives
+- Date: 2024 Apr 18
 - First Speaker: Minghao presents a tutorial about "Recent Advancements of RLHF and Its Alternatives".
-- Second speaker: Manh will have a practice talk with title "Robust multimodal learning and generation"
+- Second speaker: Manh will discuss following papers
+    - [CContrastive Learning with Adversarial Perturbations for Conditional Text Generation](https://arxiv.org/abs/2012.07280)
+    - [CONT: Contrastive Neural Text Generation](https://arxiv.org/abs/2205.14690)
+
+### 11. Evaluating Subword Tokenization: Alien Subword Composition and OOV Generalization Challenge
+- Date: 2024 Apr 11
+- Speaker: Huygaa Batsuren (Melbourne Uni)
+
+### 10. Robust multimodal learning and generation
+- Date: 2024 Mar 28
+- Speaker: Manh will have a practice talk with title "Robust multimodal learning and generation"
 
 ### 9. Complex Knowledge Graphs Reasoning with LLMs
 - Date: 2024 Mar 21

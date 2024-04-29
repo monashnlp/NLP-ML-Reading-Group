@@ -10,6 +10,11 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 13. An Empirical Analysis on Spatial Relationships Capability of Multimodal LLMs
+- Date: 2024 May 02
+- First Speaker: Fatemeh presents her work about "An Empirical Analysis on Spatial Relationships Capability of Multimodal LLMs"
+- Second Speaker: Tong
+
 ### 12. A Brief Tutorial on Recent Advancements of RLHF and Its Alternatives
 - Date: 2024 Apr 18
 - First Speaker: Minghao presents a tutorial about "Recent Advancements of RLHF and Its Alternatives".

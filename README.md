@@ -10,10 +10,20 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 14. VersiCode: Toward Version-controllable Code Generation
+- Date: 2024 May 09
+- First Speaker: Tong presents his work about "VersiCode: Toward Version-controllable Code Generation"
+- Second Speaker: Trang will discuss following papers:
+    - [Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration](https://arxiv.org/abs/2402.16030)
+    - [Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment](https://arxiv.org/abs/2404.12318)
+    - [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451)
+
 ### 13. An Empirical Analysis on Spatial Relationships Capability of Multimodal LLMs
 - Date: 2024 May 02
 - First Speaker: Fatemeh presents her work about "An Empirical Analysis on Spatial Relationships Capability of Multimodal LLMs"
-- Second Speaker: Tong
+- Second Speaker: Tong will discuss following papers
+    - [Set the Clock: Temporal Alignment of Pretrained Language Models](https://arxiv.org/abs/2402.16797)
+    - [Exploring Continual Learning for Code Generation Models](https://aclanthology.org/2023.acl-short.68/)
 
 ### 12. A Brief Tutorial on Recent Advancements of RLHF and Its Alternatives
 - Date: 2024 Apr 18

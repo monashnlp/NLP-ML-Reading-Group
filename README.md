@@ -10,13 +10,25 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 16. Efficient Instruction-Tuning of Large Languge Models through Style Consistency-Aware Response Ranking
+- Date: 30/05/2024
+- First Speaker: Zhuang presents his work about "Efficient Instruction-Tuning of Large Languge Models through Style Consistency-Aware Response Ranking"
+- Second Speaker: Trang will discuss about "Online vs offline alignment algorithms". 
+    - Related paper: [Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/abs/2405.08448)
+### 15. ICLR Redux
+- Date: 2024 May 23
+
+### 14. ICLR Redux
+- Date: 2024 May 16
+
+
 ### 14. VersiCode: Toward Version-controllable Code Generation
 - Date: 2024 May 09
 - First Speaker: Tong presents his work about "VersiCode: Toward Version-controllable Code Generation"
 - Second Speaker: Trang will discuss following papers:
     - [Don't Forget Your Reward Values: Language Model Alignment via Value-based Calibration](https://arxiv.org/abs/2402.16030)
     - [Reuse Your Rewards: Reward Model Transfer for Zero-Shot Cross-Lingual Alignment](https://arxiv.org/abs/2404.12318)
-    - [Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning](https://arxiv.org/abs/2405.00451)
+    - [Iterative Reasoning Preference Optimization](https://arxiv.org/abs/2404.19733)
 
 ### 13. An Empirical Analysis on Spatial Relationships Capability of Multimodal LLMs
 - Date: 2024 May 02

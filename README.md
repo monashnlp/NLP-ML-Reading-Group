@@ -10,9 +10,37 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 22. BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions
+- Date: 2024 Jul 18
+- First Speaker: Haolan presents his work about the[BigCodeBench benchmark](https://arxiv.org/abs/2406.15877)
+- Second Speaker: Linhao will discuss about "Controllable LLMs via constrained decoding". 
+
+### 21. Assistive Large Language Model Agents for Socially-Aware Negotiation Dialogues
+- Date: 2024 Jul 11
+- First Speaker: Devin presents his paper entitled ["Assistive Large Language Model Agents for Socially-Aware Negotiation Dialogues"](https://arxiv.org/abs/2402.01737)
+
+### 20. Stitchable Neural Networks
+- Date: 2024 Jul 04
+- Guest Speaker: Zizheng Pan presents his line of works on [Stitchable Neural Networks](https://snnet.github.io/)
+
+### 19. SOTOPIA: Interactive Learning of Socially Intelligent Language Agents
+- Date: 2024 June 27
+- First Speaker: Devin shares a set of papers on ["SOTOPIA: Interactive Learning of Socially Intelligent Language Agents"](https://arxiv.org/abs/2310.11667)
+- Second Speaker: Akide surveys recent works on multi-modal models
+
+### 18. Pragmatic effects on Language Learning and Generation
+- Date: 2024 Jun 20
+- Guest Speaker: Uri Berger (Melb Uni) presents his work on Pragmatic effects on Language Learning and Generation
+- Second Speaker: Zhuang discusses the paper [Denevil: Towards Deciphering and Navigating the Ethical Values of Large Language Models via Instruction Learning](https://arxiv.org/abs/2310.11053)
+
+### 17. KV Cache Compression for LLMs: Reducing Memory Footprint to Enhance Inference Efficiency
+- Date: 2024 June 04
+- First Speaker: Akide shares his recent work on [KV Cache Compression](https://arxiv.org/abs/2405.14366)
+
+
 ### 16. Efficient Instruction-Tuning of Large Languge Models through Style Consistency-Aware Response Ranking
 - Date: 30/05/2024
-- First Speaker: Zhuang presents his work about "Efficient Instruction-Tuning of Large Languge Models through Style Consistency-Aware Response Ranking"
+- First Speaker: Zhuang presents his work about ["Efficient Instruction-Tuning of Large Languge Models through Style Consistency-Aware Response Ranking"](https://arxiv.org/abs/2406.10882)
 - Second Speaker: Trang will discuss about "Online vs offline alignment algorithms". 
     - Related paper: [Understanding the performance gap between online and offline alignment algorithms](https://arxiv.org/abs/2405.08448)
 ### 15. ICLR Redux

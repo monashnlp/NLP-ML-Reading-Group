@@ -10,6 +10,11 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 23. LLM Decoding Acceleration
+- Date: 25/07/2024
+- First Speaker: Minghan will discuss about "LLM Decoding Acceleration"
+- Second Speaker: Haolan will present the paper [Feature Contamination: Neural Networks Learn Uncorrelated Features and Fail to Generalize](https://arxiv.org/abs/2406.03345)
+
 ### 22. BigCodeBench: Benchmarking Code Generation with Diverse Function Calls and Complex Instructions
 - Date: 2024 Jul 18
 - First Speaker: Haolan presents his work about the[BigCodeBench benchmark](https://arxiv.org/abs/2406.15877)

@@ -10,6 +10,17 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 25. Against The Achilles' Heel: A Survey on Red Teaming for Generative Models
+- Date: 08/08/2024
+- First Speaker: Minghan will present his paper [Against The Achilles' Heel: A Survey on Red Teaming for Generative Models](https://arxiv.org/abs/2404.00629)
+- Second Speaker: Manh will present the following papers:
+    - [Can Language Models Serve as Text-Based World Simulators?](https://arxiv.org/abs/2406.06485)
+    - [Reasoning with LM is Planning with World Model](https://aclanthology.org/2023.emnlp-main.507/)
+
+### 24. Splitting sentences to jailbreak LLMs/LMMs
+- Date: 01/08/2024
+- Hao will present his work on "Splitting sentences to jailbreak LLMs/LMMs".
+
 ### 23. LLM Decoding Acceleration
 - Date: 25/07/2024
 - First Speaker: Minghan will discuss about "LLM Decoding Acceleration"

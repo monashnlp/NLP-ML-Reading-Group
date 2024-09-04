@@ -10,6 +10,17 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 27. Zero-short Speech Recognition
+- Date: 05/09/2024 
+- First Speaker: Michelle presents her work on [Zero-Shot Speech Recognition](https://arxiv.org/abs/2407.17852)
+- In the second part, Hao will present the following papers
+     - [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)
+     - [Towards Probing Speech-Specific Risks in Large Multimodal Models: A Taxonomy, Benchmark, and Insights](https://arxiv.org/abs/2406.17430)
+
+### 26. ACL redux
+- Date: 22/08/2024 and 29/08/2024
+- [Slide](https://docs.google.com/presentation/d/1Yt4kG0GbjNlrbEN0Afm5kmqK0JvtUDZ8u0cZC71UUgM/edit#slide=id.p)
+
 ### 25. Against The Achilles' Heel: A Survey on Red Teaming for Generative Models
 - Date: 08/08/2024
 - First Speaker: Minghan will present his paper [Against The Achilles' Heel: A Survey on Red Teaming for Generative Models](https://arxiv.org/abs/2404.00629)

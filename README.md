@@ -10,6 +10,12 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 28. Introduction to GraphRAG
+- Date: 13/09/2024
+- First Speaker: Linhao will provide an introduction to GraphRAG.
+- In the second part, Thanh will present the following papers
+     - [Magpie: Alignment Data Synthesis from Scratch by Prompting Aligned LLMs with Nothing](https://arxiv.org/abs/2406.08464)
+     - [Generative Verifiers: Reward Modeling as Next-Token Prediction](https://arxiv.org/abs/2408.15240)
 ### 27. Zero-short Speech Recognition
 - Date: 05/09/2024 
 - First Speaker: Michelle presents her work on [Zero-Shot Speech Recognition](https://arxiv.org/abs/2407.17852)

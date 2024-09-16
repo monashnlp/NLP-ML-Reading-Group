@@ -10,6 +10,11 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 29. CultureInstruct: Curating Large-Scale Cultural Instructions from the Web
+- Date: 19/09/2024
+- First Speaker: Thanh will present his work on CultureInstruct: Curating Large-Scale Cultural Instructions from the Web
+- In the second part, Hao will have a practice talk on "Red Teaming Speech-specific Safety of Large Multimodal Models"
+
 ### 28. Introduction to GraphRAG
 - Date: 13/09/2024
 - First Speaker: Linhao will provide an introduction to GraphRAG.

@@ -1,8 +1,8 @@
 # Monash NLP&ML Reading Group
 ---
 
-- Time: Thursday, 1:00PM-2:30PM
-- Location: Room 280 Woodside building
+- Time: Thursday, 2:30PM-4:00PM
+- Location: Room 207 Woodside building
 - Schedule: [here](https://docs.google.com/document/d/13qkZBy1KBCeFa5s72fMCaCXpthnTWSg0ft4Y9fJuxzw/edit?usp=sharing)
 - Format: [Presentation guidelines](presenter-guideline.md)
     - First speaker (~45 minutes) -- The presenter talks about her/his current work/projects (the goal is to increase awareness about your work and get feedback from the team).
@@ -10,6 +10,24 @@
 - [Past meeting repo](past-meetings)
 
 ## 2024 Schedule
+### 32. Safety Alignment Should Be Made More Than Just a Few Tokens Deep
+- Date: 17/10/2024
+- Zhuang will present the paper "[Safety Alignment Should Be Made More Than Just a Few Tokens Deep](https://arxiv.org/abs/2406.05946)"
+- In the second part, Tao will discuss the following papers:
+    - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020)
+    - [From Representation to Reasoning: Towards both Evidence and Commonsense Reasoning for Video Question-Answering](https://arxiv.org/abs/2205.14895)
+    - [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072)
+### 31. MemoryLLM
+- Date: 10/10/2024
+- Tong presents the following paper:
+    - [MEMORY LLM: Towards Self-Updatable Large Language Models](https://arxiv.org/abs/2402.04624)
+    - [Agent Workflow Memory](https://arxiv.org/abs/2409.07429)
+    - [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768)
+
+### 30. VersiCode: Towards Version-controllable Code Generation
+- Date: 3/10/2024
+- Tong will present his work on VersiCode: Towards Version-controllable Code Generation
+
 ### 29. CultureInstruct: Curating Large-Scale Cultural Instructions from the Web
 - Date: 19/09/2024
 - First Speaker: Thanh will present his work on CultureInstruct: Curating Large-Scale Cultural Instructions from the Web

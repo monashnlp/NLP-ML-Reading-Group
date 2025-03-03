@@ -10,9 +10,15 @@
 - [Past meeting repo](past-meetings)
 
 ## 2025 Schedule
-### 3. Scaling Compute Inference for Improving LLMs Thinking
+### 4. [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)
+- Date: 07/03/2025
+- Hao will present his NAACL paper: [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)
+- Minghan will discuss the following papers:
+   - [Exploring Translation Mechanism of Large Language Models](https://arxiv.org/abs/2502.11806)
+   - [Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis](https://arxiv.org/pdf/2502.11544)
+### 3. [Scaling Compute Inference for Improving LLMs Thinking](https://docs.google.com/presentation/d/1PuVUYmmvl_Z-hwKBTCcTuLdpgLzq1t_jvFZhijnKZZg/edit#slide=id.g339a2814a3d_0_0)
 - Date: 27/02/2025
-- Manh will talk about "Scaling Compute Inference for Improving LLMs Thinking" ([slide](https://docs.google.com/presentation/d/1PuVUYmmvl_Z-hwKBTCcTuLdpgLzq1t_jvFZhijnKZZg/edit#slide=id.g339a2814a3d_0_0)), covering two papers
+- Manh will talk about "Scaling Compute Inference for Improving LLMs Thinking", covering two papers
    - [Reasoning with Language Model is Planning with World Model.](https://aclanthology.org/2023.emnlp-main.507/)
    - [Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters](https://arxiv.org/abs/2408.03314)
 

@@ -10,6 +10,18 @@
 - [Past meeting repo](past-meetings)
 
 ## 2025 Schedule
+### 5. [Full-Duplex Bench]()
+- Date: 14/03/2025
+- Minghan will present the following papers:
+   - [Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis](https://www.arxiv.org/abs/2502.11544)
+   - [Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities](https://arxiv.org/abs/2503.04721)
+- Reza will discuss the papers:
+   - [ZebraLogic: On the Scaling Limits of LLMs for Logical Reasoning](https://arxiv.org/abs/2502.01100)
+   - [Evolving Deeper LLM Thinking](https://arxiv.org/abs/2501.09891)
+   - [PlanGEN: A Multi-Agent Framework for Generating Planning and Reasoning Trajectories for Complex Problem Solving](https://arxiv.org/abs/2502.16111)
+   - [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/abs/2501.17161)
+   - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+
 ### 4. [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)
 - Date: 07/03/2025
 - Hao will present his NAACL paper: [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)

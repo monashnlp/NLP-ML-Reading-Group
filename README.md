@@ -10,8 +10,37 @@
 - [Past meeting repo](past-meetings)
 
 ## 2025 Schedule
+### 8. Monolingual Data Poisoning in MNMT
+- Date: 10/04/2025
+- Tao will present his recent work in "Monolingual Data Poisoning in Multilingual Machine Translation: A Practical Threat and Main-­Reference Defense".
+- Tong will discuss the papers:
+    - [MasRouter: Learning to Route LLMs for Multi-Agent Systems](https://arxiv.org/abs/2502.11133)
+    - [Multi-agent Architecture Search via Agentic Supernet](https://arxiv.org/abs/2502.04180)
+    - [G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks](https://arxiv.org/abs/2410.11782)
+
+### 7. Back-door Attack
+- Date: 03/04/2025
+- Tao will present the following papers
+   - [Backdoor Attacks on Multilingual Machine Translation](https://aclanthology.org/2024.naacl-long.254)
+   - [CleanGen: Mitigating Backdoor Attacks for Generation Tasks in Large Language Models](https://aclanthology.org/2024.emnlp-main.514/)
+   - [Here’s a Free Lunch: Sanitizing Backdoored Models with Model Merge](https://aclanthology.org/2024.findings-acl.894/)
+   - [SEEP: Training Dynamics Grounds Latent Representation Search for Mitigating Backdoor Poisoning Attacks](https://aclanthology.org/2024.tacl-1.55/)
+
+### 6. LLM-based Recommendation System
+- Date: 20/03/2025
+- Shilin will present the following papers:
+    - [Towards Next-Generation Recommender Systems: A Benchmark for Personalized Recommendation Assistant with LLMs](https://arxiv.org/abs/2503.09382)
+    - [User Experience with LLM-powered Conversational Recommendation Systems: A Case of Music Recommendation](https://arxiv.org/abs/2502.15229)
+    - [Contextualizing Recommendation Explanations with LLMs: A User Study](https://arxiv.org/abs/2501.12152)
+- Reza will discuss the papers:
+    - [SFT Memorizes, RL Generalizes: A Comparative Study of Foundation Model Post-training](https://arxiv.org/abs/2501.17161)
+    - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
+    - [New Trends for Modern Machine Translation with Large Reasoning Models](https://arxiv.org/abs/2503.10351)
+    - [LLM Post-Training: A Deep Dive into Reasoning Large Language Models](https://arxiv.org/abs/2502.21321)
+
+
 ### 5. [Full-Duplex Bench]()
-- Date: 14/03/2025
+- Date: 13/03/2025
 - Minghan will present the following papers:
    - [Evaluating o1-Like LLMs: Unlocking Reasoning for Translation through Comprehensive Analysis](https://www.arxiv.org/abs/2502.11544)
    - [Full-Duplex-Bench: A Benchmark to Evaluate Full-duplex Spoken Dialogue Models on Turn-taking Capabilities](https://arxiv.org/abs/2503.04721)
@@ -23,7 +52,7 @@
    - [LightThinker: Thinking Step-by-Step Compression](https://arxiv.org/abs/2502.15589)
 
 ### 4. [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)
-- Date: 07/03/2025
+- Date: 06/03/2025
 - Hao will present his NAACL paper: [Audio Is the Achilles' Heel: Red Teaming Audio Large Multimodal Models](https://arxiv.org/abs/2410.23861)
 - Minghan will discuss the following papers:
    - [Exploring Translation Mechanism of Large Language Models](https://arxiv.org/abs/2502.11806)

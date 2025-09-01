@@ -10,6 +10,14 @@
 - [Past meeting repo](past-meetings)
 
 ## 2025 Schedule
+
+### 9. reinforcement algorithms for LLM alignment 
+- Date: 27/05/2025
+- Trang will review some keynotes, talks and papers presented at ICLR 2025 redux.
+- Jiangnan will discuss the bellow papers:
+    - https://docs.google.com/presentation/d/18qFSk0TSKeZkgdXqsnjXLGAKbt25VtW9eeY_H5j7220/edit?usp=sharing
+    - https://docs.google.com/presentation/d/1bsJtKFFO55ViLmkB-Kd12STG8BkwCSf5Kr3tO-Yt6x8/edit?usp=sharing
+      
 ### 8. Monolingual Data Poisoning in MNMT
 - Date: 10/04/2025
 - Tao will present his recent work in "Monolingual Data Poisoning in Multilingual Machine Translation: A Practical Threat and Main-­Reference Defense".

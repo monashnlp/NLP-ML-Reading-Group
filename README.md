@@ -20,6 +20,11 @@
 - Manh will talk about " Unbiased Sliced Wasserstein Kernels for High-Quality Audio Captioning".
 - Linhao will review some of the interesting papers presented at ICML 2025.
     - https://docs.google.com/presentation/d/1sFRYGZQP9u4Yt673h_rJshF0GqG84CVIlVXji2vXqX0/edit?usp=sharing
+ 
+### 9. ICML Conference  
+- Date 22/07/2025
+- Linhao will present some recent papers about "SITUATEDTHINKER: Grounding LLM Reasoning withReal-World through Situated Thinking".
+    -https://arxiv.org/pdf/2505.19300
    
 
 ### 9. reinforcement algorithms for LLM alignment 

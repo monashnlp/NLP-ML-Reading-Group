@@ -14,6 +14,12 @@
 - Date: 27/08/2025
 - Trang will Trang will share some of the papers presented in ACL.
     - [https://docs.google.com/presentation/d/18qFSk0TSKeZkgdXqsnjXLGAKbt25VtW9eeY_H5j7220/edit?usp=sharing](https://docs.google.com/presentation/d/1R2Elo-9XWoWjIEQc9Qjis4nfWouHjxf7U_KILEXPRE8/edit?usp=sharing)
+    - 
+### 9. ACL Conference  
+- Date: 27/08/2025
+- Manh will talk about " Unbiased Sliced Wasserstein Kernels for High-Quality Audio Captioning".
+- Linhao will review some of the interesting papers presented at ICML 2025.
+    - https://docs.google.com/presentation/d/1sFRYGZQP9u4Yt673h_rJshF0GqG84CVIlVXji2vXqX0/edit?usp=sharing
    
 
 ### 9. reinforcement algorithms for LLM alignment 

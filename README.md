@@ -10,6 +10,11 @@
 - [Past meeting repo](past-meetings)
 
 ## 2025 Schedule
+### 9. ACL Conference  
+- Date: 27/08/2025
+- Trang will Trang will share some of the papers presented in ACL.
+    - [https://docs.google.com/presentation/d/18qFSk0TSKeZkgdXqsnjXLGAKbt25VtW9eeY_H5j7220/edit?usp=sharing](https://docs.google.com/presentation/d/1R2Elo-9XWoWjIEQc9Qjis4nfWouHjxf7U_KILEXPRE8/edit?usp=sharing)
+   
 
 ### 9. reinforcement algorithms for LLM alignment 
 - Date: 27/05/2025

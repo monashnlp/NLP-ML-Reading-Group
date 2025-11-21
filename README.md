@@ -9,6 +9,14 @@
     - Second speaker (~45 minutes) -- The presentation about a set of papers, or a tutorial about a topic of the presenter's choice.
 - [Past meeting repo](past-meetings)
 
+
+## 2025 Schedule
+### 10. EMNLP Conference  
+- Date: 20/11/2025
+- Reza, Trang and Thong will review the papers presented in EMNLP.
+- 
+
+
 ## 2025 Schedule
 ### 9. ACL Conference  
 - Date: 27/08/2025

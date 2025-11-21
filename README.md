@@ -14,6 +14,7 @@
 ### 10. EMNLP Conference  
 - Date: 20/11/2025
 - Reza, Trang and Thong will review the papers presented in EMNLP.
+- Link: https://drive.google.com/drive/u/1/folders/14T79xIn-MLbwhmvZcR6s6TFbsczZbVyP
 - 
 
 

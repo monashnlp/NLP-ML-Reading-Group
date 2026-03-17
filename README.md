@@ -8,8 +8,38 @@
     - First speaker (~45 minutes) -- The presenter talks about her/his current work/projects (the goal is to increase awareness about your work and get feedback from the team).
     - Second speaker (~45 minutes) -- The presentation about a set of papers, or a tutorial about a topic of the presenter's choice.
 - [Past meeting repo](past-meetings)
+## 2026 Schedule
+ Date: 15/01/2026
+- Mona: Intelligent Active Data Curation to align Large Language Models in Domain-Specific Applications.
 
+ Date: 23/01/2026
+- Nhung: Tutorial: Inverse Reinforcement Learning Meets Large Language Model Alignment (ACL 2025 Tutorial).
+  
+ Date: 29/01/2026
+- Nhung:The Social Cost of Intelligence: Stereotypical Bias in Multi-Agent Systems.
 
+ Date: 5/02/2026
+- Sukia:  how instruction granularity impacts the performance of vision language action models.
+- Link: [https://drive.google.com/drive/u/1/folders/14T79xIn-MLbwhmvZcR6s6TFbsczZbVyP](https://drive.google.com/file/d/1oDXRRLLroye7Fyr9HNC5_gr2nHIv77_1/view?usp=drive_link)](https://drive.google.com/file/d/1F_OZNfQY8_ZawscJtJ7lk1T1sV5Vrz_l/view?usp=drive_link)
+
+ Date: 26/02/2026
+- Junnan: LLM-powered Agents with Tool Learning.
+- Linhao :tutorial on self‑evolving LLM agents
+-  Link :https://drive.google.com/file/d/1F_OZNfQY8_ZawscJtJ7lk1T1sV5Vrz_l/view?usp=drive_link
+-
+-
+- Date: 05/03/2026
+-  
+- Linhao :Multi-Objective LLM Alignment with Test-time Optimization
+- Link :https://drive.google.com/file/d/1F_OZNfQY8_ZawscJtJ7lk1T1sV5Vrz_l/view?usp=drive_link
+-
+
+-  Date: 12/03/2026
+-  Junnan: LLM-powered Agents with Tool Learning.
+-  Jiangnan :Aligning Large Language Models with Human Intention
+-   Link: [https://drive.google.com/drive/u/1/folders/14T79xIn-MLbwhmvZcR6s6TFbsczZbVyP](https://drive.google.com/file/d/1oDXRRLLroye7Fyr9HNC5_gr2nHIv77_1/view?usp=drive_link)
+
+- 
 ## 2025 Schedule
 ### 10. EMNLP Conference  
 - Date: 20/11/2025

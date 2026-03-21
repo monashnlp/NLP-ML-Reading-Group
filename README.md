@@ -35,6 +35,12 @@ Date: 12/03/2026
 -  Junnan: LLM-powered Agents with Tool Learning.
 -  Jiangnan :Aligning Large Language Models with Human Intention
 -  Link: https://drive.google.com/file/d/1oDXRRLLroye7Fyr9HNC5_gr2nHIv77_1/view?usp=drive_link
+-  
+Date: 19/03/2026
+-  Minghan: Towards Inference-time Scaling for Continuous Space Reasoning.
+-  Link: https://arxiv.org/pdf/2603.11947
+-  Hao : Resurfacing Paralinguistic Awareness in Large Audio Language Models
+-  Link: https://arxiv.org/pdf/2510.12167
 
 ## 2025 Schedule
 ### 10. EMNLP Conference  

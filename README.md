@@ -42,6 +42,17 @@ Date: 19/03/2026
 -  Hao : Resurfacing Paralinguistic Awareness in Large Audio Language Models
 -  Link: https://arxiv.org/pdf/2510.12167
 
+Date: 26/03/2026
+-  Hao: GTS: Inference-Time Scaling of Latent Reasoning with a Learnable Gaussian Thought Sample.
+-  Link: [https://arxiv.org/pdf/2603.11947](https://arxiv.org/pdf/2602.14077)
+-  Minghan: audio-based agent papers
+
+
+Date: 15/04/2026
+-  Thanh: Distributional Alignment for Large Language Models under Domain Shift.
+-  Link: [https://arxiv.org/pdf/2603.11947](https://arxiv.org/abs/2603.13305)
+
+  
 ## 2025 Schedule
 ### 10. EMNLP Conference  
 - Date: 20/11/2025

@@ -52,6 +52,10 @@ Date: 15/04/2026
 -  Thanh: Distributional Alignment for Large Language Models under Domain Shift.
 -  Link: [https://arxiv.org/pdf/2603.11947](https://arxiv.org/abs/2603.13305)
 
+Date: 22/04/2026
+-  Tianqiang: Counseling Dialogue Synthesis with Language Models.
+-  Link: [[https://arxiv.org/pdf/2603.11947](https://arxiv.org/abs/2603.13305)](https://arxiv.org/pdf/2602.06373)
+-  Presentation : https://docs.google.com/presentation/d/1Wl_DJouN2qMfBxiagJs0ffdPrFoKnccM/edit?usp=sharing&ouid=110111148896177432572&rtpof=true&sd=true
   
 ## 2025 Schedule
 ### 10. EMNLP Conference  

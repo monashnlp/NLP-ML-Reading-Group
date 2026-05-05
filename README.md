@@ -56,6 +56,11 @@ Date: 22/04/2026
 -  Tianqiang: Counseling Dialogue Synthesis with Language Models.
 -  Link: [[https://arxiv.org/pdf/2603.11947](https://arxiv.org/abs/2603.13305)](https://arxiv.org/pdf/2602.06373)
 -  Presentation : https://docs.google.com/presentation/d/1Wl_DJouN2qMfBxiagJs0ffdPrFoKnccM/edit?usp=sharing&ouid=110111148896177432572&rtpof=true&sd=true
+
+ Date: 7/05/2026
+-  Jiangnan: LLMs Get Lost In Multi-Turn Conversation.
+-  Link: https://openreview.net/pdf?id=VKGTGGcwl6
+-  Mona: Adaptive Knowledge Graph Grounding to Improve LLM Reasoning on Complex KGQA
   
 ## 2025 Schedule
 ### 10. EMNLP Conference  

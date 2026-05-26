@@ -62,6 +62,12 @@ Date: 22/04/2026
 -  Link: https://openreview.net/pdf?id=VKGTGGcwl6
 -  Mona: Adaptive Knowledge Graph Grounding to Improve LLM Reasoning on Complex KGQA
   
+ Date: 28/05/2026
+-  Yu Liu:  Reliable LLM Reasoning with Conformal Prediction.
+- Link :  https://aclanthology.org/2025.acl-long.1540.pdf
+- Link :  https://arxiv.org/pdf/2604.20098
+- Link :  https://arxiv.org/pdf/2602.01285
+  
 ## 2025 Schedule
 ### 10. EMNLP Conference  
 - Date: 20/11/2025

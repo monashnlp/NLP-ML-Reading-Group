@@ -67,6 +67,10 @@ Date: 22/04/2026
 - Link :  https://aclanthology.org/2025.acl-long.1540.pdf
 - Link :  https://arxiv.org/pdf/2604.20098
 - Link :  https://arxiv.org/pdf/2602.01285
+
+Date 11/06/2026
+- Hoang : ACL 2025 Tutorial : Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications
+- Link : https://llm-guardrails-security.github.io/
   
 ## 2025 Schedule
 ### 10. EMNLP Conference  

@@ -72,6 +72,14 @@ Date 11/06/2026
 - Hoang : ACL 2025 Tutorial : Guardrails and Security for LLMs: Safe, Secure, and Controllable Steering of LLM Applications
 - Link : https://llm-guardrails-security.github.io/
   
+ Date 30/06/2026
+- Sarvnaz : RegionSLM: Region-aware Question Answering on Document Screenshots - 
+
+Date 07/07/2026
+- Akide : Advancing Token Productivity with Agent Loops 
+- Link : [https://llm-guardrails-security.github.io/](https://lzhu.me/assets/slides/202606-advancing-agent-loops-with-humanize.pdf )
+
+ 
 ## 2025 Schedule
 ### 10. EMNLP Conference  
 - Date: 20/11/2025

@@ -75,11 +75,15 @@ Date 11/06/2026
  Date 30/06/2026
 - Sarvnaz : RegionSLM: Region-aware Question Answering on Document Screenshots - 
 
-Date 07/07/2026
+Date 14/07/2026
 - Akide : Advancing Token Productivity with Agent Loops 
 - Link : [https://llm-guardrails-security.github.io/](https://lzhu.me/assets/slides/202606-advancing-agent-loops-with-humanize.pdf )
 
- 
+ Date 24/07/2026
+- Akide : workshop 
+- Link : https://ak6.notion.site/Loop-Engineering-Workshop-7-23-English-3a4498d9c24681dda579ce4687d7d203
+- Nhung : presented her confirmation seminar "  Enhancing Native Social Ability in LLM-Based Embodied Agents  "
+- 
 ## 2025 Schedule
 ### 10. EMNLP Conference  
 - Date: 20/11/2025

@@ -83,7 +83,11 @@ Date 14/07/2026
 - Akide : workshop 
 - Link : https://ak6.notion.site/Loop-Engineering-Workshop-7-23-English-3a4498d9c24681dda579ce4687d7d203
 - Nhung : presented her confirmation seminar "  Enhancing Native Social Ability in LLM-Based Embodied Agents  "
-- 
+
+Date 06/08/2026
+- Linhao : workshop 
+- Link : [https://ak6.notion.site/Loop-Engineering-Workshop-7-23-English-3a4498d9c24681dda579ce4687d7d203](https://drive.google.com/open?id=1OKpeNWtLbGkxkNiUs5DV0peYAOnPeX3i&usp=drive_fs)
+  
 ## 2025 Schedule
 ### 10. EMNLP Conference  
 - Date: 20/11/2025
